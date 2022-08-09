@@ -1,6 +1,7 @@
 # Computer Slow
 
-[![Computer Slow](get-detail.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![Computer Slow](get-detail.png)](https://github.com/pcs0lution/computer-slow)
+
 
 If your computer is running slowly, there are some solutions you can try to help make it run better. Here are the tips in order of what you should try to fix the problem. To get more information about each tip, use the Tips to improve PC performance link at the bottom of this topic.
 
